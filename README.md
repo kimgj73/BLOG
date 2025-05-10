@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>스타자동차 - 홈</title>
+    <title>뉴현대모터스
+        010-5310-9095
+        - 홈</title>
     <style>
         * {
             margin: 0;
@@ -129,12 +131,12 @@
     </nav>
     <div class="hero">
         <div>
-            <h1>스타자동차</h1>
+            <h1>뉴현대모터스</h1>
             <p>고객의 신뢰를 바탕으로 최고의 중고차 매매 서비스를 제공합니다.</p>
         </div>
     </div>
     <footer>
-        <p>&copy; 2025 스타자동차. All Rights Reserved.</p>
+        <p>&copy; 2025 뉴현대모터스. All Rights Reserved.</p>
     </footer>
 </body>
 </html>
